@@ -2,7 +2,10 @@
 TCGA pathology reports
 
 ## projection
-https://bit.ly/tcgaReps
+details at https://github.com/epiverse/tcgaReps/wiki/Projecting-TCGA-pathology-reports-embeddings-data
 
-<img src="https://epiverse.github.io/cli/bit.ly_tcgaReps.png" width=128 height=128>
+or jump straight into 
 
+```javascript
+https://projector.tensorflow.org/?config=https://gist.githubusercontent.com/jonasalmeida/d8bc4ffb60ce46ca4a6e49aa05a863e7/raw/67ce406f93f466e96e823f013bcea0727fd6d3ab/embeddings_9523.json
+```
